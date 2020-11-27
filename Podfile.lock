@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (5.4.0)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - MBCommonKit/Logger (3.0.0)
+  - MBCommonKit/Protocols (3.0.0)
+  - Nimble (8.1.2)
+  - Quick (2.2.1)
+  - Starscream (4.0.4)
+  - SwiftLint (0.41.0)
+  - TrustKit (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - AlamofireImage (~> 4.0)
+  - MBCommonKit/Logger (~> 3.0)
+  - MBCommonKit/Protocols (~> 3.0)
+  - Nimble (~> 8.0)
+  - Quick (~> 2.0)
+  - Starscream (~> 4.0)
+  - SwiftLint (~> 0.30)
+  - TrustKit (~> 1.6)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - MBCommonKit
+    - Nimble
+    - Quick
+    - Starscream
+    - SwiftLint
+    - TrustKit
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  MBCommonKit: 99cfa577ea7ca7c2163796be4932b15dcc68f98a
+  Nimble: 3864815b4703c7ebffba875973c70e854489fbae
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftLint: c585ebd615d9520d7fbdbe151f527977b0534f1e
+  TrustKit: dac38bb37e49bdfeca41b1a19d020da38017b51c
+
+PODFILE CHECKSUM: d2639ccbfc924424403c99fc3c069266a21b1c60
+
+COCOAPODS: 1.10.0
